@@ -44,7 +44,7 @@ A full-stack platform enabling PG owners to manage listings and tenants to searc
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mayur-chaudhari-807843278/)
+- [LinkedIn](https://www.linkedin.com/in/mayur-chaudhari17)
 - [Instagram](https://www.instagram.com/mayur_chaudhari_17/)
 
 ## 📈 GitHub Stats
