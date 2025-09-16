@@ -6,6 +6,7 @@
 🌱 Currently learning Machine Learning and Artificial Intelligence
 
 ## 📚 DSA Profiles
+- [CodeChef](https://www.codechef.com/users/mayurchaudhari)
 - [LeetCode](https://leetcode.com/u/mayurchaudhari1173/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/mayurchaud9l2p/)
 
